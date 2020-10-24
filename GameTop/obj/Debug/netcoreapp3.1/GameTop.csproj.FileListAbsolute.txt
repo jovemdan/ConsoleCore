@@ -1,0 +1,16 @@
+C:\Users\Danilo\Desktop\ConsoleCore\gametop\bin\Debug\netcoreapp3.1\GameTop.exe
+C:\Users\Danilo\Desktop\ConsoleCore\gametop\bin\Debug\netcoreapp3.1\GameTop.deps.json
+C:\Users\Danilo\Desktop\ConsoleCore\gametop\bin\Debug\netcoreapp3.1\GameTop.runtimeconfig.json
+C:\Users\Danilo\Desktop\ConsoleCore\gametop\bin\Debug\netcoreapp3.1\GameTop.runtimeconfig.dev.json
+C:\Users\Danilo\Desktop\ConsoleCore\gametop\bin\Debug\netcoreapp3.1\GameTop.dll
+C:\Users\Danilo\Desktop\ConsoleCore\gametop\bin\Debug\netcoreapp3.1\GameTop.pdb
+C:\Users\Danilo\Desktop\ConsoleCore\gametop\obj\Debug\netcoreapp3.1\GameTop.csprojAssemblyReference.cache
+C:\Users\Danilo\Desktop\ConsoleCore\gametop\obj\Debug\netcoreapp3.1\GameTop.AssemblyInfoInputs.cache
+C:\Users\Danilo\Desktop\ConsoleCore\gametop\obj\Debug\netcoreapp3.1\GameTop.AssemblyInfo.cs
+C:\Users\Danilo\Desktop\ConsoleCore\gametop\obj\Debug\netcoreapp3.1\GameTop.dll
+C:\Users\Danilo\Desktop\ConsoleCore\gametop\obj\Debug\netcoreapp3.1\GameTop.pdb
+C:\Users\Danilo\Desktop\ConsoleCore\GameTop\bin\Debug\netcoreapp3.1\GameTop.Interface.dll
+C:\Users\Danilo\Desktop\ConsoleCore\GameTop\bin\Debug\netcoreapp3.1\GameTop.Lib.dll
+C:\Users\Danilo\Desktop\ConsoleCore\GameTop\bin\Debug\netcoreapp3.1\GameTop.Lib.pdb
+C:\Users\Danilo\Desktop\ConsoleCore\GameTop\bin\Debug\netcoreapp3.1\GameTop.Interface.pdb
+C:\Users\Danilo\Desktop\ConsoleCore\GameTop\obj\Debug\netcoreapp3.1\GameTop.csproj.CopyComplete
